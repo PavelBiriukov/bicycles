@@ -1,7 +1,0 @@
-.switch__checkbox:checked + .switch__slider {
-  background-color: #545454;
-}
-
-.switch__checkbox:checked + .switch__slider:before {
-  transform: translateX(20px);
-}/*# sourceMappingURL=switch__checkbox.css.map */
